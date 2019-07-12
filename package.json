@@ -1,0 +1,22 @@
+{
+  "name": "next-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pages/index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "next": "^9.0.0",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
